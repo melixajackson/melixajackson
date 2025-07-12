@@ -6,7 +6,7 @@
 
 ### :man_technologist: Sobre mí :
 Ready to kick-start my career as a QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :laptop: I'm currently in the final stage of my QA Engineering Bootcamp at TripleTen. :happy:
+* :computer: I'm currently in the final stage of my QA Engineering Bootcamp at TripleTen. :blue_book:
 
 * :seedling: I have already completed projects using SQL and Python. I also have experience with manual testing tools like Jira, Postman, and Android Studio..:technologist:
 
