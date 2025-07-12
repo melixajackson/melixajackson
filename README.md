@@ -13,6 +13,4 @@ Ready to kick-start my career as a QA Engineer <img decoding="async" src="https:
 * :e-mail: melix0721@gmail.com
 
 * :iphone: +1 980 384 1322
-* 
-**melixajackson/melixajackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  
