@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/de086e2f-6643-42fd-9109-24219c3583b5" />
 <!--
 **melixajackson/melixajackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
