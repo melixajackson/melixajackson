@@ -4,7 +4,7 @@
 ---
  <div id="header" align="left">
 
-### :man_technologist: Sobre mí :
+### :man_technologist: Abount Me :
 Ready to kick-start my career as a QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :computer: I'm currently in the final stage of my QA Engineering Bootcamp at TripleTen. :blue_book:
 
