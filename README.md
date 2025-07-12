@@ -1,7 +1,6 @@
 ## Hi there 👋
 <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/de086e2f-6643-42fd-9109-24219c3583b5" />
-<!--
-**melixajackson/melixajackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ![](https://komarev.com/ghpvc/?username=JorgCaceres&color=blueviolet&style=flat-square)
   
@@ -49,4 +48,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <!--
+**melixajackson/melixajackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
