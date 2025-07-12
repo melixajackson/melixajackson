@@ -13,4 +13,10 @@ Ready to kick-start my career as a QA Engineer <img decoding="async" src="https:
 * :e-mail: melix0721@gmail.com
 
 * :iphone: +1 980 384 1322
+* ### :hammer_and_wrench: Languages and tools  :
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,unreal,angular,nodejs,js,html,css)](https://skillicons.dev)
+
+</div>
   
